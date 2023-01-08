@@ -48,3 +48,5 @@ export default App
 <img width="940" alt="스크린샷 2023-01-08 오후 11 50 04" src="https://user-images.githubusercontent.com/88086373/211202888-b2ac5446-9835-4870-9941-de281fcd0c91.png">
 
 React를 배우기 위한 프로젝트 설정을 마쳤습니다.
+
+## [다음 섹션 → 컴포넌트 만들어보기](https://github.com/danpoj/react-docs-korean-2023/blob/main/%EB%B0%B0%EC%9A%B0%EA%B8%B0/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
